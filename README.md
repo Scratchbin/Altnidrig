@@ -1,5 +1,8 @@
 # Altnidrig
 
+[![Specimen 0 0 3]([https://github.com/user-attachments/assets/e47bb2e3-5542-456a-a3a3-d91594bd975f](https://github.com/Scratchbin/Altnidrig/blob/main/Specimen%200.0.3.png))](https://github.com/Scratchbin/Altnidrig/blob/main/Specimen%200.0.3.png)
+
+
 Inspired by FHWA's Highway Gothic. Altnidrig is made rather polished, post-modern and support more languages than Overpass.
 
 Currently supports common Latin, common Cyrillic and basic Greek.
