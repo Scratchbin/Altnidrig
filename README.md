@@ -1,6 +1,6 @@
 # Altnidrig
 
-[Specimen 0 0 3](https://github.com/Scratchbin/Altnidrig/blob/main/Specimen%200.0.3.png)
+![Specimen 0 0 3](https://github.com/Scratchbin/Altnidrig/blob/main/Specimen%200.0.3.png)
 
 
 Inspired by FHWA's Highway Gothic. Altnidrig is made rather polished, post-modern and support more languages than Overpass.
